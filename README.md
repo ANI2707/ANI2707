@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>🌱 I’m currently learning React Js
+👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
+🌱 I’m currently learning React Js
 📫 How to reach me www.linkedin.com/in/aniket-bhosale-217a7a223<br>
 ⚡ Fun fact : Recent studies show that around 70% of coding jobs have nothing to do with technology at all
 
