@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ani2707&show_icons=true&locale=en" alt="ani2707" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ani2707&" alt="ani2707" /></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ani2707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ani2707&icon=5&color=2)](https://visitcount.itsvg.in)
