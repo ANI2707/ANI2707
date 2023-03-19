@@ -13,8 +13,8 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ani2707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ani2707&theme=vision-friendly-dark&hide_border=false)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ani2707&show_icons=true&locale=en" alt="ani2707" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ani2707&" alt="ani2707" /></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ani2707&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
