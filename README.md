@@ -18,6 +18,11 @@
 
 ## 📝 PROJECT's ZONE
 🌐  College Website [**🔗**](https://ani2707.github.io/College-Website/)
+🌐  Coding Website [**🔗**](https://icoderforyou.netlify.app/)
+🌐  Flipkart Clone [**🔗**](https://fpmart.netlify.app/)
+🌐  Books Website [**🔗**](https://bookit-now.netlify.app/)
+🌐  Qr Code Generator [**🔗**](https://fast-qr-generator.netlify.app/)
+
 
 
 # 📊 GitHub Stats:
