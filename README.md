@@ -1,3 +1,7 @@
+### Hey there :wave:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bhosale)](https://git.io/typing-svg)
+###### Glad to see you here :heart:
+
 # 💫 About Me:
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
 🌱 I’m currently learning React Js
