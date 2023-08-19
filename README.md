@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
+
 ### Hey there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bhosale)](https://git.io/typing-svg)
 ###### Glad to see you here :heart:
