@@ -23,6 +23,7 @@
 
 
 ## 📝 PROJECT's ZONE
+🌐  Fitness Hub [**🔗**](https://fitlifehub12.netlify.app/)
 🌐  College Website [**🔗**](https://ani2707.github.io/College-Website/)
 🌐  Coding Website [**🔗**](https://icoderforyou.netlify.app/)
 🌐  Flipkart Clone [**🔗**](https://fpmart.netlify.app/)
