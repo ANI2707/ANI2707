@@ -37,7 +37,7 @@ My Tech Stack:
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-C21325?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=c++&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white" /> 
+<!-- <img src="https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white" />  -->
 
 
 
